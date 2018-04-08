@@ -1,5 +1,5 @@
 # hello-world
-welcome to GitHub!
+welcome to GitHub !
 
 Hello CJH !
 
